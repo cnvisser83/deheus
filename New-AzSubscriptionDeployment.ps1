@@ -1,4 +1,4 @@
 New-AzSubscriptionDeployment `
     -Name 'new-rg' `
     -Location westeurope `
-    -TemplateFile '03-create-resourcegroup.json'
+    -TemplateUri 'https://github.com/cnvisser83/deheus/blob/main/03-create-resourcegroup.json'
