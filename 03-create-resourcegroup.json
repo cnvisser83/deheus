@@ -10,7 +10,7 @@
             "name": "Test",
             "type": "Microsoft.Resources/resourceGroups",
             "apiVersion": "2019-10-01",
-            "location": "westeu",
+            "location": "westeurope",
             "tags": {
                 "Owner": "Christian visser"
             }
